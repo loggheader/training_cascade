@@ -10,16 +10,27 @@ chmod +x setupdir.sh
 to set up the directory structure to the following
 
 training_cascade
+
 ----data
+
 --------accept_info
+
 --------bg_info
+
 --------cascades
+
 --------negatives
+
 --------negatives_download
+
 --------positives
+
 --------vec
+
 ----scripts
+
 --------format_neg
+
 --------create_images
 
 
